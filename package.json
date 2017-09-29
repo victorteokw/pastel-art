@@ -1,0 +1,28 @@
+{
+  "name": "pastel-art",
+  "version": "0.1.0",
+  "description": "JavaScript logger with colored process name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkaiyulw/pastel-art.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "color",
+    "process"
+  ],
+  "author": "Zhang Kai Yu <yeannylam@gmail.com> (http://www.cheunghoiyu.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangkaiyulw/pastel-art/issues"
+  },
+  "homepage": "https://github.com/zhangkaiyulw/pastel-art#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
